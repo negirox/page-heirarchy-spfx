@@ -1,0 +1,40 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "delphi-pageheirarchy-client-side-solution",
+    "id": "23d82f88-8d0b-42f7-bb5b-c3b3b2d4d560",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true,
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "developer": {
+      "name": "",
+      "websiteUrl": "",
+      "privacyUrl": "",
+      "termsOfUseUrl": "",
+      "mpnId": "Undefined-1.16.1"
+    },
+    "metadata": {
+      "shortDescription": {
+        "default": "delphi-pageheirarchy description"
+      },
+      "longDescription": {
+        "default": "delphi-pageheirarchy description"
+      },
+      "screenshotPaths": [],
+      "videoUrl": "",
+      "categories": []
+    },
+    "features": [
+      {
+        "title": "delphi-pageheirarchy Feature",
+        "description": "The feature that activates elements of the delphi-pageheirarchy solution.",
+        "id": "d28d81c1-bb07-440b-8ed7-ac9c7ec852cb",
+        "version": "1.0.0.0"
+      }
+    ]
+  },
+  "paths": {
+    "zippedPackage": "solution/delphi-pageheirarchy.sppkg"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "plusBeta": false,
+    "isCreatingSolution": true,
+    "nodeVersion": "16.19.1",
+    "sdksVersions": {
+      "@microsoft/microsoft-graph-client": "3.0.2",
+      "@microsoft/teams-js": "2.4.1"
+    },
+    "version": "1.16.1",
+    "libraryName": "delphi-pageheirarchy",
+    "libraryId": "23d82f88-8d0b-42f7-bb5b-c3b3b2d4d560",
+    "environment": "spo",
+    "packageManager": "npm",
+    "solutionName": "delphi-pageheirarchy",
+    "solutionShortDescription": "delphi-pageheirarchy description",
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "componentType": "webpart"
+  }
+}
